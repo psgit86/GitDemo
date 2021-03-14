@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="6" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-02-24T07:48:44 IST" name="Suite" finished-at="2021-02-24T07:48:44 IST" duration-ms="92">
+    <groups>
+    </groups>
+    <test started-at="2021-02-24T07:48:44 IST" name="Test" finished-at="2021-02-24T07:48:44 IST" duration-ms="92">
+      <class name="qaclickacademy.Mavenjava.RestAPITest">
+        <test-method signature="RestAPITest1()[pri:0, instance:qaclickacademy.Mavenjava.RestAPITest@62e7f11d]" started-at="2021-02-24T07:48:44 IST" name="RestAPITest1" finished-at="2021-02-24T07:48:44 IST" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RestAPITest1 -->
+      </class> <!-- qaclickacademy.Mavenjava.RestAPITest -->
+      <class name="qaclickacademy.Mavenjava.AppiumTest">
+        <test-method signature="AppiumTest1()[pri:0, instance:qaclickacademy.Mavenjava.AppiumTest@503d687a]" started-at="2021-02-24T07:48:44 IST" name="AppiumTest1" finished-at="2021-02-24T07:48:44 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AppiumTest1 -->
+        <test-method signature="AppiumTest2()[pri:0, instance:qaclickacademy.Mavenjava.AppiumTest@503d687a]" started-at="2021-02-24T07:48:44 IST" name="AppiumTest2" finished-at="2021-02-24T07:48:44 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AppiumTest2 -->
+      </class> <!-- qaclickacademy.Mavenjava.AppiumTest -->
+      <class name="qaclickacademy.Mavenjava.SeleniumTest">
+        <test-method signature="SeleniumTest1()[pri:0, instance:qaclickacademy.Mavenjava.SeleniumTest@6a370f4]" started-at="2021-02-24T07:48:44 IST" name="SeleniumTest1" finished-at="2021-02-24T07:48:44 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SeleniumTest1 -->
+        <test-method signature="SeleniumTest2()[pri:0, instance:qaclickacademy.Mavenjava.SeleniumTest@6a370f4]" started-at="2021-02-24T07:48:44 IST" name="SeleniumTest2" finished-at="2021-02-24T07:48:44 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SeleniumTest2 -->
+      </class> <!-- qaclickacademy.Mavenjava.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="64" started-at="2021-02-24T08:11:25 IST" finished-at="2021-02-24T08:11:25 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="64" started-at="2021-02-24T08:11:25 IST" finished-at="2021-02-24T08:11:25 IST">
+      <class name="qaclickacademy.Mavenjava.RestAPITest">
+        <test-method status="PASS" signature="RestAPITest1()[pri:0, instance:qaclickacademy.Mavenjava.RestAPITest@5ec0a365]" name="RestAPITest1" duration-ms="6" started-at="2021-02-24T08:11:25 IST" finished-at="2021-02-24T08:11:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RestAPITest1 -->
+        <test-method status="PASS" signature="RestAPITest2()[pri:0, instance:qaclickacademy.Mavenjava.RestAPITest@5ec0a365]" name="RestAPITest2" duration-ms="1" started-at="2021-02-24T08:11:25 IST" finished-at="2021-02-24T08:11:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RestAPITest2 -->
+      </class> <!-- qaclickacademy.Mavenjava.RestAPITest -->
+      <class name="qaclickacademy.Mavenjava.AppiumTest">
+        <test-method status="PASS" signature="AppiumTest1()[pri:0, instance:qaclickacademy.Mavenjava.AppiumTest@4fe3c938]" name="AppiumTest1" duration-ms="0" started-at="2021-02-24T08:11:25 IST" finished-at="2021-02-24T08:11:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AppiumTest1 -->
+        <test-method status="PASS" signature="AppiumTest2()[pri:0, instance:qaclickacademy.Mavenjava.AppiumTest@4fe3c938]" name="AppiumTest2" duration-ms="0" started-at="2021-02-24T08:11:25 IST" finished-at="2021-02-24T08:11:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AppiumTest2 -->
+      </class> <!-- qaclickacademy.Mavenjava.AppiumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
