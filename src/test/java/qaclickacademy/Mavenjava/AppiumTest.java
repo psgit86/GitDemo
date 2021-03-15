@@ -19,4 +19,11 @@ public class AppiumTest {
 	{
 		System.out.println("AppiumTest2");
 	}
+	
+
+	@Test
+	public void AppiumTest3()
+	{
+		System.out.println("AppiumTest-Framework change 2");
+	}
 }
