@@ -15,6 +15,13 @@ public class SeleniumTest {
 	public void SeleniumTest2()
 	{
 		System.out.println("SeleniumTest2");
+		System.out.println("GIT-SeleniumTest4-US chnages");
 	}
 
+	@Test
+	public void SeleniumTest3()
+	{
+		System.out.println("GIT-SeleniumTest5-US chnages");
+		System.out.println("GIT-SeleniumTest6-US chnages");
+	}
 }

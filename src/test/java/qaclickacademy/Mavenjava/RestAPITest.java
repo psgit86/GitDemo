@@ -17,5 +17,11 @@ public class RestAPITest {
 		System.out.println("RestAPITest2");
 	}
 
+	
+	@Test(enabled=true)
+	public void RestAPITest3()
+	{
+		System.out.println("RestAPITest3");
+	}
 
 }
