@@ -9,6 +9,8 @@ public class AppiumTest {
 	public void AppiumTest1()
 	{
 		System.out.println("AppiumTest1");
+		System.out.println("GIT-AppiumTest2");
+		System.out.println("GIT-AppiumTest3");
 	}
 	
 	@Test
