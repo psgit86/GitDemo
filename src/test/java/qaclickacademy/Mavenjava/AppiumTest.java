@@ -11,6 +11,7 @@ public class AppiumTest {
 		System.out.println("AppiumTest1");
 		System.out.println("GIT-AppiumTest2");
 		System.out.println("GIT-AppiumTest3");
+		System.out.println("GIT-AppiumTest4-INDIA chnages");
 	}
 	
 	@Test

@@ -8,6 +8,7 @@ public class SeleniumTest {
 	public void SeleniumTest1()
 	{
 		System.out.println("SeleniumTest1");
+		System.out.println("GIT-SeleniumTest2-INDIA chnages");
 	}
 	
 	@Test
